@@ -32,7 +32,7 @@ Cedar Trade Group is a fictional company with 60 employees and a 4-person IT tea
 
 | File | Description |
 |---|---|
-| `requirements.docx` | Project requirements |
+| `Requirements.docx` | Project requirements |
 | `schema.sql` | Creates the database and tables |
 | `sample_data.sql` | Loads the sample data |
 | `queries.sql` | 5 analysis queries |
