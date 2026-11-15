@@ -10,6 +10,8 @@ Cedar Trade Group is a fictional company with 60 employees and a 4-person IT tea
 
 **What's inside:** requirements, a 6-table database with ERD, 182 sample tickets, 5 SQL queries, a 2-page Power BI dashboard, and 3 support procedures.
 
+**Next step:** I implemented this design in a real tool in [Cloud Service Desk Setup (Zoho Desk)](https://github.com/celine708/zoho-service-desk-lab).
+
 ## Database
 
 ![ERD](erd.png)
