@@ -16,8 +16,13 @@ Cedar Trade Group is a fictional company with 60 employees and a 4-person IT tea
 
 ## Dashboard
 
-![Overview](dashboard_overview.png)
-![Team performance](dashboard_team.png)
+**Overview**
+
+![Dashboard overview](dashboard_overview.png)
+
+**Team performance**
+
+![Dashboard team performance](dashboard_team.png)
 
 ## Key Findings
 
@@ -28,17 +33,19 @@ Cedar Trade Group is a fictional company with 60 employees and a 4-person IT tea
 
 **Recommendations:** add self-service password resets, review overdue tickets weekly, and balance technician workloads.
 
+Full details for each query are in [insights.md](insights.md).
+
 ## Files
 
 | File | Description |
-|---|---|
-| `Requirements.docx` | Project requirements |
-| `schema.sql` | Creates the database and tables |
-| `sample_data.sql` | Loads the sample data |
-| `queries.sql` | 5 analysis queries |
-| `insights.docx` | Findings from each query |
-| `help_desk_dashboard.pbix` | Power BI dashboard |
-| `procedures.docx` | Ticket handling procedures |
+| --- | --- |
+| [requirements.md](requirements.md) | Project requirements |
+| [schema.sql](schema.sql) | Creates the database and tables |
+| [sample_data.sql](sample_data.sql) | Loads the sample data |
+| [queries.sql](queries.sql) | 5 analysis queries |
+| [insights.md](insights.md) | Findings from each query |
+| [help_desk_dashboard.pbix](help_desk_dashboard.pbix) | Power BI dashboard |
+| [procedures.docx](procedures.docx) | Ticket handling procedures |
 
 ## How to Run
 
@@ -48,6 +55,6 @@ Cedar Trade Group is a fictional company with 60 employees and a 4-person IT tea
 
 ## Limitations
 
-- All company and ticket data is fictional and generated for this project.
+- All company and ticket data is fictional and generated for this project, so the findings reflect the sample data, not real operations.
 - Resolution time is counted in calendar hours, not working hours.
 - November 2026 is a partial month (data ends November 6).
